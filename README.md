@@ -14,11 +14,12 @@ performance, security, and strict adherence to data-protection regulations.
 | --- | --- | --- |
 | Portfolio | [sumanjangili.com](https://www.sumanjangili.com) | Official |
 | Services practice | [codeexo.com](https://codeexo.com) | Official — registered MSME (Udyam), proprietorship |
-| Source for codeexo.com | [@sumanjangili/codeexo-webrepo](https://github.com/sumanjangili/codeexo-webrepo) | **Active** |
 | GitHub organization | [github.com/codeexolabs](https://github.com/codeexolabs) | ✅ **Domain-verified** for codeexo.com |
 | Products & demos | [indoscient.in](https://www.indoscient.in) | Official — independent practice, not MSME-registered |
-| Source for indoscient.in | [@sumanjangili/indoscient-repo](https://github.com/sumanjangili/indoscient-repo) | **Active** |
 | Products organization | [github.com/indoscient](https://github.com/indoscient) | ✅ **Domain-verified** for indoscient.in |
+
+> Source for codeexo.com: [@sumanjangili/codeexo-webrepo](https://github.com/sumanjangili/codeexo-webrepo)
+> Source for indoscient.in [@sumanjangili/indoscient-repo](https://github.com/sumanjangili/indoscient-repo)
 
 **🌐 Indoscient properties**
 
