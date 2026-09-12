@@ -19,6 +19,7 @@ performance, security, and strict adherence to data-protection regulations.
 | Products organization | [github.com/indoscient](https://github.com/indoscient) | ✅ **Domain-verified** for indoscient.in |
 
 > Source for codeexo.com: [@sumanjangili/codeexo-webrepo](https://github.com/sumanjangili/codeexo-webrepo)
+
 > Source for indoscient.in [@sumanjangili/indoscient-repo](https://github.com/sumanjangili/indoscient-repo)
 
 **🌐 Indoscient properties**
