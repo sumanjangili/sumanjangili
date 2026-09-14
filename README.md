@@ -67,45 +67,43 @@ The following accounts were created ~8 years ago (circa 2016) under the CODE:EXO
 
 ---
 
-## 🛠️ Featured Projects (Sponsor-Funded)
+## 🛠️ Featured Projects
 
-Active development tracked via [GitHub Sponsors](https://github.com/sponsors/sumanjangili).
+> Active development tracked via [GitHub Sponsors](https://github.com/sponsors/sumanjangili). Current goal: **10 sponsors by end of 2026** 🎯
 
 ### 1. Compliance Tracker
 **"Assess data protection requirements and track compliance"**  
 **Tech:** TypeScript, Netlify, Neon, Prisma  
 **Live:** [compliance.indoscient.in](https://compliance.indoscient.in)  
-**Repo:** [⚙️ View](https://github.com/sumanjangili/dpdpa-checklist-generator) 🔒 *Private — Sponsor-only access*
+**Repo:** [⚙️ View](https://github.com/sumanjangili/dpdpa-checklist-generator) 🔒 *Private*
 
 ### 2. SecureVault
 **"Secure self-hosted password manager API + web dashboard"**  
 **Tech:** Rust (Actix-Web), sled, PostgreSQL, React (Vite + TypeScript)  
 **Front-end:** [@suman-jangili/secure_vault-ui](https://www.npmjs.com/package/@suman-jangili/secure_vault-ui)  
-**Repo:** [⚙️ View](https://github.com/sumanjangili/password-manager) 🔒 *Private — Sponsor-only access*
+**Repo:** [⚙️ View](https://github.com/sumanjangili/password-manager) 🔒 *Private*
 
 ### 3. Real-Time Issue Board
 **"Track bugs, feature requests, and stand-up items instantly"**  
 **Tech:** Rust (Actix-Web), sled, PostgreSQL, React (Vite + TypeScript)  
 **Front-end:** [@suman-jangili/real_time_issue_board_ui](https://www.npmjs.com/package/@suman-jangili/real_time_issue_board_ui)  
 **Back-end:** [`real_time_issue_board_api`](https://crates.io/crates/real_time_issue_board_api)  
-**Repo:** [⚙️ View](https://github.com/sumanjangili/real-time-issue-board) 🔒 *Private — Sponsor-only access*
+**Repo:** [⚙️ View](https://github.com/sumanjangili/real-time-issue-board) 🔒 *Private*
 
 ### 4. Real-Time Collaborative Markdown Editor
 **"Lightweight co-authoring without heavyweight office suite overhead"**  
 **Tech:** Rust (Actix-Web), sled, PostgreSQL, React (Vite SPA)  
 **Front-end:** [@suman-jangili/real_time_md_editor_ui](https://www.npmjs.com/package/@suman-jangili/real_time_md_editor_ui)  
 **Back-end:** [`real_time_md_editor_api`](https://crates.io/crates/real_time_md_editor_api)  
-**Repo:** [⚙️ View](https://github.com/sumanjangili/real-time-md-editor) 🔒 *Private — Sponsor-only access*
+**Repo:** [⚙️ View](https://github.com/sumanjangili/real-time-md-editor) 🔒 *Private*
 
 ### 5. Secure Web Products
 **"Privacy-first audit-logging solution + product management hub"**  
 **Tech:** Vite, React, TypeScript, Redis, Netlify Functions  
 **Live:** [app.indoscient.in](https://app.indoscient.in)  
-**Repo:** [🔒 Sponsor-only access](https://github.com/sponsors/sumanjangili)
+**Repo:** [⚙️ View](https://github.com/sumanjangili/secure-web-product) ✅ *Public*
 
 > 💡 **Sponsor-only visibility**: Some repos require sponsorship tier access — check [sponsor tiers](https://github.com/sponsors/sumanjangili) for details. Public packages (npm/crates.io) remain accessible to all.
-
-Current goal: **10 sponsors by end of 2026** 🎯
 
 ---
 
