@@ -8,10 +8,16 @@ performance, security, and data-protection compliance.
 
 ---
 
+> ⚠️ **CRITICAL DISCLAIMER — VERIFY BEFORE TRUSTING OR PAYING**
+>
+> The account **github.com/codeexo** is **not affiliated** with me, codeexo.com, or CODE:EXO in any way. Any other account, repo, or website claiming to represent CODE:EXO, Indoscient, or me should be treated as **unaffiliated** — please verify domains before trusting content or sending payments.
+
+---
+
 ## 🔗 Current Official Ownership (Verified)
 
 | Asset | URL / Handle | Status |
-|-------|--------------|--------|
+| :--- | :--- | :--- |
 | Personal Portfolio | [sumanjangili.com](https://www.sumanjangili.com) | ✅ Owner |
 | Services Practice | [codeexo.com](https://codeexo.com) | ✅ Owner — MSME (Udyam), proprietorship |
 | GitHub Organization | [github.com/codeexolabs](https://github.com/codeexolabs) | ✅ Domain-verified for codeexo.com |
@@ -34,7 +40,7 @@ performance, security, and data-protection compliance.
 The following accounts were created ~8 years ago (circa 2016) under the CODE:EXO brand. **These are NOT affiliated** with me or my current ownership of codeexo.com:
 
 | Platform | Account/URL | Notes |
-|----------|-------------|-------|
+| :--- | :--- | :--- |
 | Vimeo | vimeo.com/codeexo | Pre-existing / unaffiliated |
 | DailyMotion | dailymotion.com/EXOsubs | Pre-existing / unaffiliated |
 | Twitter (old) | twitter.com/code_exo | Pre-existing / unaffiliated |
