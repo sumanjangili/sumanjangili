@@ -41,6 +41,7 @@ The following accounts were created ~8 years ago (circa 2016) under the CODE:EXO
 
 | Platform | Account/URL | Notes |
 | :--- | :--- | :--- |
+| GitHub | github.com/codeexo | 🔴 **High Risk** — Unaffiliated, not verified |
 | Vimeo | vimeo.com/codeexo | Pre-existing / unaffiliated |
 | DailyMotion | dailymotion.com/EXOsubs | Pre-existing / unaffiliated |
 | Twitter (old) | twitter.com/code_exo | Pre-existing / unaffiliated |
