@@ -19,10 +19,15 @@ performance, security, and data-protection compliance.
 | Asset | URL / Handle | Status |
 | :--- | :--- | :--- |
 | Personal Portfolio | [sumanjangili.com](https://www.sumanjangili.com) | ✅ Owner |
-| Services Practice | [codeexo.com](https://codeexo.com) | ✅ Owner — MSME (Udyam), proprietorship |
+| **Proprietorship Entity** | **INDOSCIENT** | ✅ Sole Proprietorship (Suman Jangili) |
+| Trading Name | [codeexo.com](https://codeexo.com) | ✅ Operates under INDOSCIENT (MSME Udyam) |
+| Products Site | [indoscient.in](https://www.indoscient.in) | ✅ Official INDOSCIENT domain |
 | GitHub Organization | [github.com/codeexolabs](https://github.com/codeexolabs) | ✅ Domain-verified for codeexo.com |
-| Products Practice | [indoscient.in](https://www.indoscient.in) | ✅ Owner (non-MSME) |
 | GitHub Organization | [github.com/indoscient](https://github.com/indoscient) | ✅ Domain-verified for indoscient.in |
+
+> **Official Udyam Registration:** UDYAM-TS-27-0060098 (INDOSCIENT proprietorship)
+
+> ℹ️ **Legal Clarification:** CODE:EXO is a trading name of INDOSCIENT (Sole Proprietorship of Suman Jangili, Telangana, India). Both domains operate under the same proprietorship entity with single Udyam registration.
 
 > **Source repos**:  
 > • codeexo.com → [@sumanjangili/codeexo-webrepo](https://github.com/sumanjangili/codeexo-webrepo)  
@@ -55,7 +60,7 @@ The following accounts were created ~8 years ago (circa 2016) under the CODE:EXO
 - **First-come-first-served platforms**: Social handles may have been claimed by others before I acquired the domain.
 - **Verification method**: Trust only **domain-verified** assets (check DNS/WHOIS) and cross-reference official sources.
 
-**Report suspected impersonations**: [contact@codeexo.com](mailto:contact@codeexo.com)
+**Report suspected impersonations**: [info@codeexo.com](mailto:info@codeexo.com)
 
 ---
 
