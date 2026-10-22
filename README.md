@@ -76,8 +76,8 @@ The following accounts were created ~8 years ago (circa 2016) under the CODE:EXO
 
 > Active development tracked via [GitHub Sponsors](https://github.com/sponsors/sumanjangili). Current goal: **10 sponsors by end of 2026** 🎯
 
-### 1. Compliance Tracker
-**"Assess data protection requirements and track compliance"**  
+### 1. Indoscient Compliance Platform
+**"Assess data protection requirements and track compliance with checklists, consent management, DSAR portals, and automated retention."**  
 **Tech:** TypeScript, Netlify, Neon, Prisma  
 **Live:** [compliance.indoscient.in](https://compliance.indoscient.in)  
 **Repo:** [⚙️ View](https://github.com/sumanjangili/dpdpa-checklist-generator) 🔒 *Private*
@@ -102,7 +102,7 @@ The following accounts were created ~8 years ago (circa 2016) under the CODE:EXO
 **Back-end:** [`real_time_md_editor_api`](https://crates.io/crates/real_time_md_editor_api)  
 **Repo:** [⚙️ View](https://github.com/sumanjangili/real-time-md-editor) 🔒 *Private*
 
-### 5. Secure Web Products
+### 5. Secure Web Product
 **"Privacy-first audit-logging solution + product management hub"**  
 **Tech:** Vite, React, TypeScript, Redis, Netlify Functions  
 **Live:** [app.indoscient.in](https://app.indoscient.in)  
