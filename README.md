@@ -77,7 +77,7 @@ The following accounts were created ~8 years ago (circa 2016) under the CODE:EXO
 > Active development tracked via [GitHub Sponsors](https://github.com/sponsors/sumanjangili). Current goal: **10 sponsors by end of 2026** 🎯
 
 ### 1. Indoscient Compliance Platform
-**"A DPDPA-first platform with GDPR-aligned architecture — Assess data protection requirements and track compliance with checklists, consent management, DSAR portals, and automated retention."**  
+**"A DPDPA-first platform with GDPR-aligned architecture — Assess data protection requirements and track compliance with checklists, consent management, DSAR / Data Principal request portals, and automated retention."**  
 **Tech:** TypeScript, Netlify, Neon, Prisma  
 **Live:** [compliance.indoscient.in](https://compliance.indoscient.in)  
 **Repo:** [⚙️ View](https://github.com/sumanjangili/dpdpa-checklist-generator) 🔒 *Private*
